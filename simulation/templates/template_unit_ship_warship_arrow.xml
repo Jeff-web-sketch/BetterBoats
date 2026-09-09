@@ -7,7 +7,7 @@
     <Ranged>
       <Damage>
         <Hack>0</Hack>
-        <Pierce>32</Pierce>
+        <Pierce>40</Pierce>
         <Crush>0</Crush>
       </Damage>
       <Bonuses>
@@ -116,7 +116,7 @@
     <Entity>
       <Damage>
         <Hack>10</Hack>
-        <Pierce>30</Pierce>
+        <Pierce>20</Pierce>
         <Crush>10</Crush>
       </Damage>
     </Entity>

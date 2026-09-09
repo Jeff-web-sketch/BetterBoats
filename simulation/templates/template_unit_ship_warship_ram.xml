@@ -5,7 +5,7 @@
     <Melee>
       <AttackName>Naval Ram</AttackName>
       <Damage>
-        <Hack>280</Hack>
+        <Hack>180</Hack>
         <Pierce>0.0</Pierce>
         <Crush>50</Crush>
       </Damage>
@@ -121,7 +121,7 @@
     <Entity>
       <Damage>
         <Hack>10</Hack>
-        <Pierce>30</Pierce>
+        <Pierce>20</Pierce>
         <Crush>10</Crush>
       </Damage>
     </Entity>
