@@ -61,6 +61,41 @@
   <TreasureCollector>
     <MaxDistance>7</MaxDistance>
   </TreasureCollector>
+      <TurretHolder>
+    <TurretPoints>
+      <One>
+        <X>0</X>
+        <Y>3</Y>
+        <Z>-8</Z>
+      </One>
+      <Two>
+        <X>0</X>
+        <Y>3</Y>
+        <Z>-4</Z>
+      </Two>
+      <Three>
+        <X>0</X>
+        <Y>3</Y>
+        <Z>-0</Z>
+      </Three>
+      <Four>
+        <X>0</X>
+        <Y>3</Y>
+        <Z>4</Z>
+      </Four>
+      <Five>
+        <X>0</X>
+        <Y>3</Y>
+        <Z>8</Z>
+      </Five>   
+      <Six>
+        <X>0</X>
+        <Y>3</Y>
+        <Z>12</Z>
+      </Six>
+
+      </TurretPoints>
+      <TurretHolder>
   <UnitMotion>
     <WalkSpeed op="mul">1.7</WalkSpeed>
     <Acceleration op="mul">5.0</Acceleration>
