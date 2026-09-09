@@ -1,0 +1,8 @@
+{
+	"name": "BetterBoats",
+	"version": "1.0.0",
+	"label": "BetterBoats",
+	"url": "", 
+	"description": "Better Boats",
+	"dependencies": [ "0ad=0.28.0" ]
+}
