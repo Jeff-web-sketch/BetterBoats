@@ -95,7 +95,7 @@
       </Six>
 
       </TurretPoints>
-      <TurretHolder>
+      </TurretHolder>
   <UnitMotion>
     <WalkSpeed op="mul">1.7</WalkSpeed>
     <Acceleration op="mul">5.0</Acceleration>
