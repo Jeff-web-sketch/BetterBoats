@@ -89,6 +89,115 @@
       <attack_impact_ranged>attack/impact/siegeprojectilehit.xml</attack_impact_ranged>
     </SoundGroups>
   </Sound>
+    <TurretHolder>
+    <TurretPoints>
+      <One>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>-8</Z>
+      </One>
+      <Two>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>-4</Z>
+      </Two>
+      <Three>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>0</Z>
+      </Three>
+      <Four>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>4</Z>
+      </Four>
+      <Five>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>8</Z>
+      </Five>
+     
+      <Six>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>-8</Z>
+      </Six>
+      <Seven>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>-4</Z>
+      </Seven>
+      <Eight>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>0</Z>
+      </Eight>
+      <Nine>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>4</Z>
+      </Nine>
+      <Ten>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>8</Z>
+      </Ten>
+      
+      
+       <Eleven>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>12</Z>
+      </Eleven>
+      <Twelve>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>16</Z>
+      </Twelve>
+      <Thirteen>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>20</Z>
+      </Thirteen>
+      <Fourteen>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>24</Z>
+      </Fourteen>
+      <Fifteen>
+        <X>1</X>
+        <Y>3</Y>
+        <Z>28</Z>
+      </Fifteen>
+     
+      <Sixteen>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>12</Z>
+      </Sixteen>
+      <Seventeen>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>16</Z>
+      </Seventeen>
+      <Eighteen>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>20</Z>
+      </Eighteen>
+      <Nineteen>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>24</Z>
+      </Nineteen>
+      <Twenty>
+        <X>-1</X>
+        <Y>3</Y>
+        <Z>28</Z>
+      </Twenty>
+    </TurretPoints>
+  </TurretHolder>
+
   <TreasureCollector>
     <MaxDistance>24</MaxDistance>
   </TreasureCollector>
